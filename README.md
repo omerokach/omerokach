@@ -1,3 +1,7 @@
+<h1 align='center'>Hey there, my name is Omer</h1>
+<h4 align="center"> A junior full-stack web developer, open to work! 🎓 💻 💼</h4>
+<br/>
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # 🛠️ Technologies & Tools 
