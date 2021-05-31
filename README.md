@@ -23,6 +23,27 @@
 
 ![](https://img.shields.io/badge/Editor-VisualStudio-brightgreen?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+VmlzdWFsIFN0dWRpbyBpY29uPC90aXRsZT48cGF0aCBkPSJNMTcuNTgzLjA2M2ExLjUgMS41IDAgMDAtMS4wMzIuMzkyIDEuNSAxLjUgMCAwMC0uMDAxIDBBLjg4Ljg4IDAgMDAxNi41LjVMOC41MjggOS4zMTYgMy44NzUgNS41bC0uNDA3LS4zNWExIDEgMCAwMC0xLjAyNC0uMTU0IDEgMSAwIDAwLS4wMTIuMDA1bC0xLjgxNy43NWExIDEgMCAwMC0uMDc3LjAzNiAxIDEgMCAwMC0uMDQ3LjAyOCAxIDEgMCAwMC0uMDM4LjAyMiAxIDEgMCAwMC0uMDQ4LjAzNCAxIDEgMCAwMC0uMDMuMDI0IDEgMSAwIDAwLS4wNDQuMDM2IDEgMSAwIDAwLS4wMzYuMDMzIDEgMSAwIDAwLS4wMzIuMDM1IDEgMSAwIDAwLS4wMzMuMDM4IDEgMSAwIDAwLS4wMzUuMDQ0IDEgMSAwIDAwLS4wMjQuMDM0IDEgMSAwIDAwLS4wMzIuMDUgMSAxIDAgMDAtLjAyLjAzNSAxIDEgMCAwMC0uMDI0LjA1IDEgMSAwIDAwLS4wMi4wNDUgMSAxIDAgMDAtLjAxNi4wNDQgMSAxIDAgMDAtLjAxNi4wNDcgMSAxIDAgMDAtLjAxNS4wNTUgMSAxIDAgMDAtLjAxLjA0IDEgMSAwIDAwLS4wMDguMDU0IDEgMSAwIDAwLS4wMDYuMDVBMSAxIDAgMDAwIDYuNjY4djEwLjY2NmExIDEgMCAwMC42MTUuOTE3bDEuODE3Ljc2NGExIDEgMCAwMDEuMDM1LS4xNjRsLjQwOC0uMzUgNC42NTMtMy44MTUgNy45NzMgOC44MTVhMS41IDEuNSAwIDAwLjA3Mi4wNjUgMS41IDEuNSAwIDAwLjA1Ny4wNSAxLjUgMS41IDAgMDAuMDU4LjA0MiAxLjUgMS41IDAgMDAuMDYzLjA0NCAxLjUgMS41IDAgMDAuMDY1LjAzOCAxLjUgMS41IDAgMDAuMDY1LjAzNiAxLjUgMS41IDAgMDAuMDY4LjAzMSAxLjUgMS41IDAgMDAuMDcuMDMgMS41IDEuNSAwIDAwLjA3My4wMjUgMS41IDEuNSAwIDAwLjA2Ni4wMiAxLjUgMS41IDAgMDAuMDguMDIgMS41IDEuNSAwIDAwLjA2OC4wMTQgMS41IDEuNSAwIDAwLjA3NS4wMSAxLjUgMS41IDAgMDAuMDc1LjAwOCAxLjUgMS41IDAgMDAuMDczLjAwMyAxLjUgMS41IDAgMDAuMDc3IDAgMS41IDEuNSAwIDAwLjA3OC0uMDA1IDEuNSAxLjUgMCAwMC4wNjctLjAwNyAxLjUgMS41IDAgMDAuMDg3LS4wMTUgMS41IDEuNSAwIDAwLjA2LS4wMTIgMS41IDEuNSAwIDAwLjA4LS4wMjIgMS41IDEuNSAwIDAwLjA2OC0uMDIgMS41IDEuNSAwIDAwLjA3LS4wMjggMS41IDEuNSAwIDAwLjA5LS4wMzdsNC45NDQtMi4zNzdhMS41IDEuNSAwIDAwLjQ3Ni0uMzYyIDEuNSAxLjUgMCAwMC4wOS0uMTEyIDEuNSAxLjUgMCAwMC4wMDQtLjAwNyAxLjUgMS41IDAgMDAuMDgtLjEyNSAxLjUgMS41IDAgMDAuMDYyLS4xMiAxLjUgMS41IDAgMDAuMDA5LS4wMTcgMS41IDEuNSAwIDAwLjA0LS4xMDggMS41IDEuNSAwIDAwLjAxNS0uMDM3IDEuNSAxLjUgMCAwMC4wMy0uMTA3IDEuNSAxLjUgMCAwMC4wMDktLjAzNyAxLjUgMS41IDAgMDAuMDE3LS4xIDEuNSAxLjUgMCAwMC4wMDgtLjA1IDEuNSAxLjUgMCAwMC4wMDYtLjA5IDEuNSAxLjUgMCAwMC4wMDQtLjA4VjMuOTQyYTEuNSAxLjUgMCAwMDAtLjAwMyAxLjUgMS41IDAgMDAwLS4wMzIgMS41IDEuNSAwIDAwLS4wMS0uMTUgMS41IDEuNSAwIDAwLS44NC0xLjE3TDE4LjIwNi4yMWExLjUgMS41IDAgMDAtLjYyMi0uMTQ2ek0xOCA2LjkydjEwLjE2M2wtNi4xOTgtNS4wOHpNMyA4LjU3NGwzLjA5OSAzLjQyNy0zLjEgMy40MjZ6Ii8+PC9zdmc+)
 
+<br />
+<h2 align="left">Programing Languages, Frameworks & Tools</h2>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
+
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="50" height="50" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu-linux" width="50" height="50" />
+</p>
+
 
 <!--
 **omerokach/omerokach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
