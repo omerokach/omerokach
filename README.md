@@ -33,6 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/ts-original-wordmark.svg" alt="ts" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
 
